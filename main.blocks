@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="device_button_event" id="C$;D3N*?A}fy_8bAJ7YO" x="0" y="0"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="controls_repeat_ext" id="k#.p3]$b3!%W{F!XgvGl"><value name="TIMES"><shadow type="math_whole_number" id="s{,i?l?rRs^Ep*]+mC}o"><field name="NUM">4</field></shadow></value><statement name="DO"><block type="basic_show_icon" id="bUH]Zl9SZH:N^jxZ%K7^"><field name="i">IconNames.Chessboard</field><next><block type="device_pause" id="X7pUCcz}bwlA/64|/;n8"><value name="pause"><shadow type="timePicker" id="n3zx~[G1U]}J1`e4l};A"><field name="ms">500</field></shadow></value><next><block type="device_show_leds" id="P;FFaTW08@+ALAVWqa%j"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field></block></next></block></next></block></statement></block></statement></block></xml>
